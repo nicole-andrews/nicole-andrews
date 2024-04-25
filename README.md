@@ -6,7 +6,7 @@ I thrive on exploring new technologies, solving complex problems, and continuous
 Languages:
 I am advanced in Java, and proficient in C++ and Python. 
 
-College Classes
+College Classes/n
 Coding Classes
 - Intro to Artificial Intellegence (Python)
 - Learn a Programming Language (C++)
