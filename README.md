@@ -1,9 +1,9 @@
 Hello I'm Nicole 
 
-About Me
+About Me:
 I thrive on exploring new technologies, solving complex problems, and continuously improving my coding skills. This innate curiosity fuels my desire to innovate and push the boundaries of what's possible in the world of software development. 
 
-Languages
+Languages:
 I am advanced in Java, and proficient in C++ and Python. 
 
 College Classes
