@@ -42,6 +42,8 @@ Bachlors of Science in Computer Science
 
 Certificate in Data Science 
 
+
+
 Los Altos High School 
 
 Los Altos, California 
