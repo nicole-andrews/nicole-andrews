@@ -8,7 +8,7 @@ I thrive on exploring new technologies, solving complex problems, and continuous
 
 I am advanced in Java, and proficient in C++ and Python. 
 
-**College Classes **
+College Classes 
 
 Coding Classes
 - Intro to Artificial Intellegence (Python)
@@ -21,7 +21,7 @@ Math Classes:
 - Discrete Math
 - Linear Algebra
 
-**High School Classes **
+High School Classes 
 
 - Advanced Data Structures and Embedded Networking
 
