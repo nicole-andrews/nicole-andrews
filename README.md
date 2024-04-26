@@ -30,9 +30,9 @@ High School Classes
 - AP Computer Science 
 
 
-Education
+**Education**
 
-University of Wisconsin - Madison 
+**University of Wisconsin - Madison **
 
 Madison, Wisconsin 
 
@@ -45,7 +45,7 @@ Certificate in Data Science
 
 
 
-Los Altos High School 
+**Los Altos High School **
 
 Los Altos, California 
 
