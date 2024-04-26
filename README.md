@@ -25,7 +25,7 @@ High School Classes
 
 - Advanced Data Structures and Embedded Networking
 
-      Throughout this course, I had the privilege to gain invaluable insights into the world of computer science by engaging in real- world scenarios. Each project was essentially a proposal that demanded teamwork and intricate coding skills to meet all the specified requirements. My passion lies in the realms of creativity and collaboration, and I firmly believe that these two qualities are the bedrock of remarkable innovations and effective problem-solving. Working within a team setting has not only sharpened my technical skills but also nurtured my ability to think creatively and bring fresh perspectives to the table.
+   Throughout this course, I had the privilege to gain invaluable insights into the world of computer science by engaging in real- world scenarios. Each project was essentially a proposal that demanded teamwork and intricate coding skills to meet all the specified requirements. My passion lies in the realms of creativity and collaboration, and I firmly believe that these two qualities are the bedrock of remarkable innovations and effective problem-solving. Working within a team setting has not only sharpened my technical skills but also nurtured my ability to think creatively and bring fresh perspectives to the table.
   
 - AP Computer Science 
 
@@ -49,6 +49,7 @@ Los Altos, California
 August 2018 – May 2022
 
 Contact Me
+
 📧 nicolemariaandrews@gmail.com 
 
 🔗 www.linkedin.com/in/nicole-andrews-170263202
