@@ -33,21 +33,15 @@ High School Classes
 Education
 
 University of Wisconsin - Madison 
-
 Madison, Wisconsin 
-
 August 2022 - May 2026
-
 Bachlors of Science in Computer Science 
-
 Certificate in Data Science 
 
 
 
 Los Altos High School 
-
 Los Altos, California 
-
 August 2018 – May 2022
 
 Contact Me
