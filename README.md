@@ -1,14 +1,14 @@
 Hello I'm Nicole 
 
-About Me
+**About Me**
 
 I thrive on exploring new technologies, solving complex problems, and continuously improving my coding skills. This innate curiosity fuels my desire to innovate and push the boundaries of what's possible in the world of software development. 
 
-Languages
+**Languages**
 
 I am advanced in Java, and proficient in C++ and Python. 
 
-College Classes 
+**College Classes **
 
 Coding Classes
 - Intro to Artificial Intellegence (Python)
@@ -21,7 +21,7 @@ Math Classes:
 - Discrete Math
 - Linear Algebra
 
-High School Classes 
+**High School Classes **
 
 - Advanced Data Structures and Embedded Networking
 
@@ -32,7 +32,7 @@ High School Classes
 
 **Education**
 
-**University of Wisconsin - Madison **
+University of Wisconsin - Madison 
 
 Madison, Wisconsin 
 
@@ -44,8 +44,7 @@ Certificate in Data Science
 
 
 
-
-**Los Altos High School **
+Los Altos High School 
 
 Los Altos, California 
 
