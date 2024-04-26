@@ -8,6 +8,14 @@ I thrive on exploring new technologies, solving complex problems, and continuous
 
 I am advanced in Java, and proficient in C++ and Python. 
 
+Current Job
+
+UW-Madison DoIT: 
+Student Field Technologist
+
+I provide general desktop support to numerous campus computers. I complete onboarding requests and set up new employees with there computers by re-imaging and deploying all needed software and personal information. I also go to people's offices to assist with there computer issues and set up monitors and all requested hardware.
+
+
 College Classes 
 
 Coding Classes
