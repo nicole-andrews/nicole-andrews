@@ -8,7 +8,7 @@ I thrive on exploring new technologies, solving complex problems, and continuous
 
 I am advanced in Java, and proficient in C++ and Python. 
 
-Current Job
+**Current Job**
 
 UW-Madison DoIT: 
 Student Field Technologist
