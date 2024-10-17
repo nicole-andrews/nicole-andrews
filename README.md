@@ -19,6 +19,9 @@ I provide general desktop support to numerous campus computers. I complete onboa
 College Classes 
 
 Coding Classes
+- Data Science Programming 2 (Python)
+- Machine Organization and Programming (C) 
+- Intro to Cryptography (Theory)
 - Intro to Artificial Intellegence (Python)
 - Learn a Programming Language (C++)
 - Intro to Computer Engineering (Assembly, LC-3)
