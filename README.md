@@ -32,6 +32,10 @@ Math Classes:
 - Discrete Math
 - Linear Algebra
 
+Other:
+- Geospatial technology
+- Digital footprints: Privacy and Technology
+
 High School Classes 
 
 - Advanced Data Structures and Embedded Networking
