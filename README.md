@@ -2,7 +2,10 @@ Hello I'm Nicole
 
 **About Me**
 
-I thrive on exploring new technologies, solving complex problems, and continuously improving my coding skills. This innate curiosity fuels my desire to innovate and push the boundaries of what's possible in the world of software development. 
+I’ve been passionate about computer science since middle school, where I first explored coding with Scratch and Python, and that love only deepened in high school as I learned Java. Problem-solving is at the core of what I enjoy most; I’m driven to push my boundaries, learn new things, and take on fresh challenges. Recently, I started running, which led a friend to challenge me to tackle an 8K race. Instead of letting the pressure overwhelm me, I use it as a catalyst, breaking down tasks into manageable steps that help me stay focused, organized, and effective—even in high-pressure situations.
+Beyond coding fundamentals, my interests span UX design and DevOps, reflecting my enthusiasm for both creativity and collaboration. My strong eye for design began when I built a website for a small business on Wix. I also find DevOps compelling because of its emphasis on teamwork—I love exchanging ideas, as I believe that shared insights drive creativity and progress. Debugging, often considered tedious, is one of my favorite aspects of coding; to me, it’s like solving a puzzle where each adjustment brings me closer to a solution, and uncovering hidden issues is incredibly satisfying. This skill has also made me a valuable resource for my peers, as I frequently help them with their code. Whether I’m explaining assembly language concepts to classmates or assisting beginners in thinking like a programmer, I find that teaching not only strengthens my skills but deepens my understanding of concepts as well.
+
+
 
 **Languages**
 
