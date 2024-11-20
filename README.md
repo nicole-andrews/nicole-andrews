@@ -7,7 +7,7 @@ I’ve been passionate about computer science since middle school, where I first
 
  Debugging, often considered tedious, is one of my favorite aspects of coding; to me, it’s like solving a puzzle where each adjustment brings me closer to a solution, and uncovering hidden issues is incredibly satisfying. This skill has also made me a valuable resource for my peers, as I frequently help them with their code. Whether I’m explaining assembly language concepts to classmates or assisting beginners in thinking like a programmer, I find that teaching not only strengthens my skills but deepens my understanding of concepts as well.
 
-
+Streamlit Hackacthon app: https://homerunscientist.streamlit.app/
 
 **Languages**
 
