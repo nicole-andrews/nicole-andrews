@@ -58,9 +58,7 @@ Madison, Wisconsin
 
 August 2022 - May 2026
 
-Bachlors of Science in Computer Science 
-
-Certificate in Data Science 
+Bachlors of Science in Computer Science and Data Science 
 
 
 
