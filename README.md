@@ -11,29 +11,33 @@ Streamlit Hackacthon app: https://homerunscientist.streamlit.app/
 
 **Languages**
 
-I am advanced in Java, and proficient in C++ and Python. 
+I am advanced in Java and Python and proficient in C++, C, R, CSS, HTML, JavaScript, React.
 
 **Current Job**
 
 UW-Madison DoIT: 
 Student Field Technologist
-
-I provide general desktop support to numerous campus computers. I complete onboarding requests and set up new employees with their computers by re-imaging and deploying all needed software and personal information. I also go to people's offices to assist with their computer issues and set up monitors and all requested hardware.
-
+• Deployed and configured workstations with standardized software and security protocols, ensuring
+compliance with organizational IT policies
+• Identified and resolved system configuration issues during setup, ensuring functionality and reducing
+downtime for end-users
 
 College Classes 
 
-Coding Classes
-- Data Science Programming 2 (Python)
+CS Classes
+- Algorithms (Theory/Java)
+- Building User Interfaces (React/JavaScript/CSS)
 - Machine Organization and Programming (C) 
+- Data Science Programming 2 (Python)
 - Intro to Cryptography (Theory)
-- Intro to Artificial Intellegence (Python)
+- Intro to Artificial Intelligence (Python)
 - Learn a Programming Language (C++)
 - Intro to Computer Engineering (Assembly, LC-3)
 - CS 400: Programming 3 (Java)
 - CS 300: Programming 2 (Java) 
 
 Math Classes:
+- Statistical Modeling II
 - Discrete Math
 - Linear Algebra
 
