@@ -45,6 +45,8 @@ Other:
 - Geospatial technology
 - Digital footprints: Privacy and Technology
 
+Active member of WACM (Women in Computing), where I engage in seminars, tech talks, and learning events led by industry experts and business leaders. These experiences allow me to broaden my technical expertise, gain valuable insights from accomplished engineers, and build meaningful connections within the tech community. Listening to the journeys of successful women in technology not only inspires me but also reinforces my passion for software engineering and innovation. Their stories fuel my drive to contribute to a more inclusive, diverse, and forward-thinking industry.
+
 High School Classes 
 
 - Advanced Data Structures and Embedded Networking
