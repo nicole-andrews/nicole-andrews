@@ -27,7 +27,7 @@ College Classes
 CS Classes
 - Algorithms (Theory/Java)
 - Building User Interfaces (React/JavaScript/CSS)
-- Machine Organization and Programming (C) 
+- Machine Organization and Programming (C)
 - Data Science Programming 2 (Python)
 - Intro to Cryptography (Theory)
 - Intro to Artificial Intelligence (Python)
@@ -46,6 +46,23 @@ Other:
 - Digital footprints: Privacy and Technology
 
 **Active member of WACM (Women in Computing)**, where I engage in seminars, tech talks, and learning events led by industry experts and business leaders. These experiences allow me to broaden my technical expertise, gain valuable insights from accomplished engineers, and build meaningful connections within the tech community. Listening to the journeys of successful women in technology not only inspires me but also reinforces my passion for software engineering and innovation. Their stories fuel my drive to contribute to a more inclusive, diverse, and forward-thinking industry.
+
+***School Assignments***
+In **Machine Organization and Programming**, I developed a **heap allocator in C**, implementing dynamic memory management with a best-fit allocation strategy. The allocator managed memory allocation and deallocation while maintaining block headers and footers to track size and allocation status. To optimize memory usage, I incorporated alignment adjustments and boundary tag coalescing, which allowed adjacent free blocks to merge, reducing fragmentation. Debugging segmentation faults and pointer arithmetic deepened my understanding of low-level memory operations, system calls, and data structures. This project strengthened my ability to write efficient, low-level code, reinforcing key concepts in memory management, operating systems, and performance optimization.
+
+In ***CS 400***
+N**BA Team Info Project**
+• Designed and developed a **red-black tree** data structure for fast retrieval of NBA team information,
+enhancing data query efficiency and user experience
+• Collaborated on frontend and backend development, leading UI design and integrating backend logic to
+deliver user-friendly application for both projects
+
+***Airline CA Flight Paths Project*** 
+• Engineered a Java-based application to calculate the shortest and cheapest airline routes between six major
+U.S. airports using Dijkstra’s Algorithm for route optimization
+• Parsed DOT files to extract and structure data, optimizing backend functionality while leveraging Linux and
+Git to ensure efficient development and robust version control
+
 
 High School Classes 
 
