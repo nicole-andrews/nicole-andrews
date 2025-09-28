@@ -21,17 +21,17 @@ I am advanced in JavaScript, Java and Python and proficient in C++, C, R, CSS, H
 **Jobs**
 
 Software Development Internship at TASC
-• Built new client-facing features in Angular (e.g., Client Profile page, Payment Plan Copy & Renewal flow)
+- Built new client-facing features in Angular (e.g., Client Profile page, Payment Plan Copy & Renewal flow)
 designed mobile-first, with reusable components and faster load times.
-• Enhanced user experience by going beyond ticket requirements — adding loading indicators, copy-to-
+- Enhanced user experience by going beyond ticket requirements — adding loading indicators, copy-to-
 clipboard functionality, and performance improvements.
-• Debugged complex issues using AWS CloudWatch logs and SQL, resolving urgent bugs before release
+- Debugged complex issues using AWS CloudWatch logs and SQL, resolving urgent bugs before release
 (e.g., API performance fix eliminating redundant endpoint calls, reducing load).
-• Automated testing with Jasmine, Jest, and Cypress, updating fixtures and strengthening regression
+- Automated testing with Jasmine, Jest, and Cypress, updating fixtures and strengthening regression
 coverage across large-scale repositories.
-• Collaborated in an Agile/Scrum environment (sprint planning, reviews, daily standups), working cross-
+- Collaborated in an Agile/Scrum environment (sprint planning, reviews, daily standups), working cross-
 functionally with business analysts, QA, and senior developers.
-• Practiced clean coding in large repositories: refactoring, removing redundant code, and reusing existing
+- Practiced clean coding in large repositories: refactoring, removing redundant code, and reusing existing
 utilities to improve maintainability.
 
 UW-Madison DoIT: 
