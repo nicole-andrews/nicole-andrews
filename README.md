@@ -2,18 +2,37 @@ Hello I'm Nicole
 
 **About Me**
 
-I’ve been passionate about computer science since middle school, where I first explored coding with Scratch and Python, and that love only deepened in high school as I learned Java. Problem-solving is at the core of what I enjoy most; I’m driven to push my boundaries, learn new things, and take on fresh challenges. Recently, I started running, which led a friend to challenge me to tackle an 8K race. Instead of letting the pressure overwhelm me, I use it as a catalyst, breaking down tasks into manageable steps that help me stay focused, organized, and effective—even in high-pressure situations.
+I’m a Computer Science and Data Science student eager to create technology that truly makes a difference. I love problem-solving and debugging; to me, they’re like puzzles that sharpen my skills and push me to think outside the box.
 
+I thrive on learning new languages, frameworks, and tools, and I’m always excited to explore emerging technologies that can improve the way people live, work, and connect.
 
- Debugging, often considered tedious, is one of my favorite aspects of coding; to me, it’s like solving a puzzle where each adjustment brings me closer to a solution, and uncovering hidden issues is incredibly satisfying. This skill has also made me a valuable resource for my peers, as I frequently help them with their code. Whether I’m explaining assembly language concepts to classmates or assisting beginners in thinking like a programmer, I find that teaching not only strengthens my skills but deepens my understanding of concepts as well.
+With hands-on experience in front-end and back-end development, Agile collaboration, and a strong academic foundation with courses spanning user interfaces, operating systems, and big data systems, I bring both curiosity and determination to every project. I’m eager to dive deeper into the world of AI, building intelligent and ethical solutions that transform user experiences.
+
+I also care deeply about the environment and the role technology plays in creating a sustainable future. I believe that as developers, we have both the power and the responsibility to build solutions that not only drive innovation but also respect and preserve our planet.
+
+My goal is to grow as a developer while building innovative, reliable, and user-focused solutions that make a lasting impact.
 
 Streamlit Hackacthon app: https://homerunscientist.streamlit.app/
 
 **Languages**
 
-I am advanced in Java and Python and proficient in C++, C, R, CSS, HTML, JavaScript, React.
+I am advanced in JavaScript, Java and Python and proficient in C++, C, R, CSS, HTML, React.
 
-**Current Job**
+**Jobs**
+
+Software Development Internship at TASC
+• Built new client-facing features in Angular (e.g., Client Profile page, Payment Plan Copy & Renewal flow)
+designed mobile-first, with reusable components and faster load times.
+• Enhanced user experience by going beyond ticket requirements — adding loading indicators, copy-to-
+clipboard functionality, and performance improvements.
+• Debugged complex issues using AWS CloudWatch logs and SQL, resolving urgent bugs before release
+(e.g., API performance fix eliminating redundant endpoint calls, reducing load).
+• Automated testing with Jasmine, Jest, and Cypress, updating fixtures and strengthening regression
+coverage across large-scale repositories.
+• Collaborated in an Agile/Scrum environment (sprint planning, reviews, daily standups), working cross-
+functionally with business analysts, QA, and senior developers.
+• Practiced clean coding in large repositories: refactoring, removing redundant code, and reusing existing
+utilities to improve maintainability.
 
 UW-Madison DoIT: 
 Student Field Technologist
@@ -25,6 +44,8 @@ downtime for end-users
 College Classes 
 
 CS Classes
+- Intro to Operating Systems (C, Xv6)
+- Big Data Systems 
 - Algorithms (Theory/Java)
 - Building User Interfaces (React/JavaScript/CSS)
 - Machine Organization and Programming (C)
