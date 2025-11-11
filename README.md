@@ -45,7 +45,7 @@ College Classes
 
 CS Classes
 - Intro to Operating Systems (C, Xv6)
-- Big Data Systems 
+- Big Data Systems (Docker, Spark)
 - Algorithms (Theory/Java)
 - Building User Interfaces (React/JavaScript/CSS)
 - Machine Organization and Programming (C)
